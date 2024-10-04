@@ -10,6 +10,7 @@ This project contains solutions to various JavaScript tasks involving loops, arr
             │
             ├── index.js              // Main JavaScript file with all tasks
             ├── README.md             // Project description and instructions
+            ├── tests.js             // Project unittest and instructions
             └── task_description.md    // Task explanation in Ukrainian
 
 
