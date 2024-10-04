@@ -1,4 +1,4 @@
-# JavaScript Tasks
+# JavaScript Tasks for CHI-IT Academy Autumn1(HomeWork1)
 
 This project contains solutions to various JavaScript tasks involving loops, arrays, objects, and methods.
 
