@@ -33,4 +33,5 @@ This project contains solutions to various JavaScript tasks involving loops, arr
 
 ##  Run tests:
 ```bash
-node tests.js```
+node tests.js
+````
