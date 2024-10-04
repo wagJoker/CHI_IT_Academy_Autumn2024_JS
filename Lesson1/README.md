@@ -6,7 +6,7 @@ This project contains solutions to various JavaScript tasks involving loops, arr
 
 
 
-    my-js-project/
+    Lessons1/
             │
             ├── index.js              // Main JavaScript file with all tasks
             ├── README.md             // Project description and instructions
