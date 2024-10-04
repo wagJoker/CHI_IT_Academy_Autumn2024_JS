@@ -29,3 +29,8 @@ This project contains solutions to various JavaScript tasks involving loops, arr
 1. Clone this repository.
 2. Open `index.js` in your favorite JavaScript environment.
 3. Run the script to see the output in the console.
+
+
+##  Run tests:
+```bash
+node tests.js```
