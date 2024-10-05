@@ -21,7 +21,15 @@ do {
     console.log("Task 1:", j);
     y++;
 } while (j <= 10);
+//Using for into while
+let i = 1; 
 
+while (i <= 10) { 
+    for (let j = i; j <= i; j++) { 
+        console.log(j); 
+    }
+    i++; 
+}
 // Asynchronous generator function to yield numbers from 1 to 10
 async function* asyncNumberGenerator() {
     for (let i = 1; i <= 10; i++) {
