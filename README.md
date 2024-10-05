@@ -1,4 +1,4 @@
-Logo
+![Logo](./Logo.png)
 ## Course Overview
 This course provides comprehensive training for aspiring FullStack Developers, focusing on JavaScript and Node.js. Participants will gain practical knowledge and skills necessary to develop modern web applications.
 ## Course Program
